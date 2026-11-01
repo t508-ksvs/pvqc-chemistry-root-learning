@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>PVQC 化學字根｜圖文學習講義</title>
+  <meta name="description" content="從圖像理解化學字根，搭配英文發音、字族整理與主動回想。">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="#home"><span class="brand-icon">⚗</span><span>Ms. Chang <b>化學字根圖文講義</b></span></a><span class="draft">教師預覽草稿</span><div class="top-actions"><button id="overview">▦ <span>課程總覽</span></button><button id="full" aria-label="切換全螢幕">⛶</button></div></header>
+  <main id="main"></main>
+  <footer><span id="progress" aria-live="polite"></span><div class="navigation"><button id="prev" aria-label="上一頁">←</button><span id="position"></span><button id="next" aria-label="下一頁">→</button></div><span class="keyboard">← → 翻頁 · O 總覽 · F 全螢幕</span></footer>
+  <dialog id="grid-dialog"><div class="dialog-head"><div><small>COURSE MAP</small><h2>今天想探索哪個字根？</h2></div><button class="close" data-close="grid-dialog" aria-label="關閉課程總覽">✕</button></div><input id="search" type="search" placeholder="搜尋字根、主題或英文單字" aria-label="搜尋課程"><div id="grid" class="course-grid"></div></dialog>
+  <dialog id="image-dialog"><button class="close" data-close="image-dialog" aria-label="關閉放大圖片">✕</button><img id="large-image" alt=""></dialog>
+  <div id="status" class="status" role="status"></div>
+  <script src="lessons.js"></script><script src="app.js"></script>
+</body></html>
