@@ -1,0 +1,219 @@
+[
+  {
+    "original": "CG_化學字根第一組.png",
+    "web": "assets/group-1.webp",
+    "label": "第一組總覽",
+    "format": "PNG",
+    "width": "1672",
+    "height": "941",
+    "source_bytes": "1801347",
+    "web_bytes": "248438",
+    "sha256": "12ef8fa35608cb267363c13025c8c5df1ed568dc15c1c5f20a3edddbb09cbb08"
+  },
+  {
+    "original": "CG_化學字根第二組.png",
+    "web": "assets/group-2.webp",
+    "label": "第二組總覽",
+    "format": "PNG",
+    "width": "1672",
+    "height": "941",
+    "source_bytes": "1901090",
+    "web_bytes": "264060",
+    "sha256": "2046236e46044140539d0a476e3bf5639ef8dd6e615c160fddf8cb8caf40bdac"
+  },
+  {
+    "original": "CG_化學字根第三組.png",
+    "web": "assets/group-3.webp",
+    "label": "第三組總覽",
+    "format": "PNG",
+    "width": "1672",
+    "height": "941",
+    "source_bytes": "1796702",
+    "web_bytes": "242492",
+    "sha256": "4f7e15d3f5bf552a3d9f30ad52bbce7cb043745095253d5dbb437facd767d08e"
+  },
+  {
+    "original": "CGakatom.png",
+    "web": "assets/alk-atom.webp",
+    "label": "alk 與 atom",
+    "format": "PNG",
+    "width": "1672",
+    "height": "941",
+    "source_bytes": "1614959",
+    "web_bytes": "197318",
+    "sha256": "1dfc54514de35fd6c770445d2844768a0cb420bf8fd305859771a0e9ffa0fbd0"
+  },
+  {
+    "original": "CC_烴hydrocarbon+alkline_new.png",
+    "web": "assets/hydrocarbon-main.webp",
+    "label": "烴類與鹼性的辨別",
+    "format": "PNG",
+    "width": "1672",
+    "height": "941",
+    "source_bytes": "1914133",
+    "web_bytes": "274750",
+    "sha256": "a572c226d57a6ebdccc64ddcbd575f242bde6da3318909cd332e8bad31ea9c2f"
+  },
+  {
+    "original": "烴hydrocarbon家族化學鍵結圖解.png",
+    "web": "assets/hydrocarbon-blocks.webp",
+    "label": "烴類積木圖",
+    "format": "PNG",
+    "width": "2816",
+    "height": "1536",
+    "source_bytes": "5773362",
+    "web_bytes": "374244",
+    "sha256": "bf3e14cbdd43b4f214af3167735582b96f5a851c38419c0157969e77c87c97a8"
+  },
+  {
+    "original": "alk家族化學鍵結圖解.png",
+    "web": "assets/alk-family.webp",
+    "label": "alk 家族補充圖",
+    "format": "PNG",
+    "width": "2752",
+    "height": "1536",
+    "source_bytes": "5107468",
+    "web_bytes": "393210",
+    "sha256": "91c6b3dedc05e46449d1ba082ce67bbf628e192d546a418354c72d18e8e80a2a"
+  },
+  {
+    "original": "CG_solv1008new",
+    "web": "assets/solv-main.webp",
+    "label": "溶解三步驟",
+    "format": "PNG",
+    "width": "1448",
+    "height": "1086",
+    "source_bytes": "2169606",
+    "web_bytes": "326294",
+    "sha256": "1d62e5b05567269a40be43505a30a1e8cc851c296044ecc58b8a9df4effd776d"
+  },
+  {
+    "original": "CG_solv.png",
+    "web": "assets/solv-family.webp",
+    "label": "solv 字族圖",
+    "format": "PNG",
+    "width": "1672",
+    "height": "941",
+    "source_bytes": "2083220",
+    "web_bytes": "339380",
+    "sha256": "bd78326a6b42723dd148677512afc40a5419846e018062319bbc7e899cfa85f6"
+  },
+  {
+    "original": "GG-gem-solv.jpg",
+    "web": "assets/solv-process.webp",
+    "label": "溶解過程補充圖",
+    "format": "JPEG",
+    "width": "2400",
+    "height": "1792",
+    "source_bytes": "2647184",
+    "web_bytes": "331912",
+    "sha256": "f8bd9226610270bc19c21649ffd5dc7105d6419f7b0d807b017da046e94bc0ee"
+  },
+  {
+    "original": "GG_uv_sol.jpg",
+    "web": "assets/solv-uv.webp",
+    "label": "U 與 V：形狀聯想",
+    "format": "JPEG",
+    "width": "2816",
+    "height": "1536",
+    "source_bytes": "2385919",
+    "web_bytes": "264446",
+    "sha256": "c1275f4abae80f0fd99b42eea228449fd0d7cdd9c4c523bdb5ee7ec68e8e7a83"
+  },
+  {
+    "original": "CGpolymer.png",
+    "web": "assets/polymer.webp",
+    "label": "poly 與 mer",
+    "format": "PNG",
+    "width": "1535",
+    "height": "1024",
+    "source_bytes": "1420100",
+    "web_bytes": "177286",
+    "sha256": "800faa46692365bae5e5ad9538c425b806145191229ef7a5367ab5b53c97388c"
+  },
+  {
+    "original": "CGbenzcarchl.png",
+    "web": "assets/benz-carb-chlor.webp",
+    "label": "benz、carb 與 chlor",
+    "format": "PNG",
+    "width": "1672",
+    "height": "941",
+    "source_bytes": "1602145",
+    "web_bytes": "188782",
+    "sha256": "fec1fc2c48962cdcd90729703c87fd555f90f08311ba6c67aa05b5bfc725298c"
+  },
+  {
+    "original": "CGelechhd.png",
+    "web": "assets/electr-hydr.webp",
+    "label": "electr、hydr 與 hydro",
+    "format": "PNG",
+    "width": "1672",
+    "height": "941",
+    "source_bytes": "1548284",
+    "web_bytes": "176802",
+    "sha256": "83a7f862000c7143bbd2207c3ed80819ac1ada7c61b4f35fff1b9cb18d38fd1e"
+  },
+  {
+    "original": "CGiso.png",
+    "web": "assets/iso.webp",
+    "label": "iso 同與異",
+    "format": "PNG",
+    "width": "1672",
+    "height": "941",
+    "source_bytes": "1565475",
+    "web_bytes": "189498",
+    "sha256": "4889a2672f360d75faaa068176d5b5a6805e3c4e6db85f8c52f05f38c351daa5"
+  },
+  {
+    "original": "CGaseose.png",
+    "web": "assets/ase-ose.webp",
+    "label": "酵素與醣類",
+    "format": "PNG",
+    "width": "1535",
+    "height": "1024",
+    "source_bytes": "1488835",
+    "web_bytes": "189272",
+    "sha256": "d87ef23daf22fcb26ff32f9f2fba7ca5bca0a75c8e2c89c310d598d65789f93a"
+  },
+  {
+    "original": "CGol醇.png",
+    "web": "assets/ol.webp",
+    "label": "醇與酚",
+    "format": "PNG",
+    "width": "1535",
+    "height": "1024",
+    "source_bytes": "1428417",
+    "web_bytes": "166536",
+    "sha256": "fc3583c698e6c8b3ca8d82cfd166ed0a8990b307a0d185936664100836e5ac62"
+  },
+  {
+    "original": "CGoxphoto.png",
+    "web": "assets/ox-photo.webp",
+    "label": "氧與光",
+    "format": "PNG",
+    "width": "1535",
+    "height": "1024",
+    "source_bytes": "1449570",
+    "web_bytes": "170514",
+    "sha256": "4bbedaaacebacf141fbf2671ec02d468d7584c17a7edf84692ac4dfeeabe2352"
+  },
+  {
+    "original": "CGtherm.png",
+    "web": "assets/therm.webp",
+    "label": "熱與溫度",
+    "format": "PNG",
+    "width": "1535",
+    "height": "1024",
+    "source_bytes": "1414411",
+    "web_bytes": "171254",
+    "sha256": "86e17eb3813612b8be94f2e0e9d0c1ad653f3c588d15426d0a02a31faeed0927"
+  },
+  {
+    "original": "CG_de_化.png",
+    "web": "assets/de-prefix.png",
+    "label": "de- 通用字根轉譯圖",
+    "format": "PNG",
+    "sha256": "8e14b3e5e61a83119649705e66cc9053aee30dd58ebf95b8ba2502fb173c7d0b",
+    "reviewStatus": "representative-lesson-candidate"
+  }
+]

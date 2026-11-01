@@ -1,0 +1,3901 @@
+{
+  "summary": {
+    "date": "2026-11-01",
+    "baselineFile": "化學專業英文字彙整理表_v11_chatgpt教學順序調整.xlsx",
+    "baselineSha256": "d8acbd4ec8a3b10243de3e465f24446093d6a2b7041f878530915f5c944934eb",
+    "legacyUrl": "https://famous-sable-9fcfce.netlify.app/",
+    "legacySha256": "21aa63b1f2305e8dd58dc7848fd07e5df5fea49acd6f6d93a5ce7dcc1146eda6",
+    "v11Count": 541,
+    "v11Unique": 541,
+    "legacyCount": 541,
+    "legacyUnique": 541,
+    "missingFromLegacy": [],
+    "extraInLegacy": [],
+    "fieldDiffCounts": {
+      "語源": 88,
+      "口訣": 107
+    },
+    "websiteCorrections": 7,
+    "sourceTeachingGroups": 45,
+    "rootRows": 30,
+    "affixRows": 22,
+    "v11MEPB": [
+      "bromopropane",
+      "butanol",
+      "chlorobutane",
+      "chloromethane",
+      "cyclopropane",
+      "dimethyl",
+      "dimethyl mercury",
+      "ethanal",
+      "ethane",
+      "ethylamine",
+      "ethylbenzene",
+      "ethyne",
+      "iodoethane",
+      "iodomethane",
+      "isobutane",
+      "isopentane",
+      "methanal",
+      "methane",
+      "methanol",
+      "methyl",
+      "methylamine",
+      "pentane",
+      "pentanol",
+      "pentanone",
+      "pentose",
+      "propanal",
+      "propanol",
+      "propene",
+      "propyne"
+    ],
+    "legacyMEPB": [
+      "bromopropane",
+      "butanol",
+      "chlorobutane",
+      "chloromethane",
+      "cyclopropane",
+      "dimethyl",
+      "dimethyl mercury",
+      "ethanal",
+      "ethane",
+      "ethylamine",
+      "ethylbenzene",
+      "ethyne",
+      "iodoethane",
+      "iodomethane",
+      "isobutane",
+      "isopentane",
+      "methanal",
+      "methane",
+      "methanol",
+      "methyl",
+      "methylamine",
+      "pentane",
+      "pentanol",
+      "pentanone",
+      "pentose",
+      "polyurethane",
+      "propanal",
+      "propanol",
+      "propene",
+      "propyne"
+    ],
+    "extensionCount": 6
+  },
+  "fieldDifferences": [
+    {
+      "en": "acid soil",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "acid soil",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "activity",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "activity",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "acyl",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "acyl",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "algae",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "algae",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "algal",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "algal",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "allotrope",
+      "field": "口訣",
+      "v11": "allotrope=同素異形體：同一元素形成不同結構，如鑽石與石墨",
+      "legacy": "allotrope=同素異形體，allo(其他)+trope，同元素不同結構"
+    },
+    {
+      "en": "alum",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "alum",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "amylopectin",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "amylopectin",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "analgesic",
+      "field": "口訣",
+      "v11": "an-（無）+ alg（痛）+ -esic：止痛的／止痛藥",
+      "legacy": "an- 表示否定「無、沒有」，algesia 源於希臘文 algos 表示「痛苦」，-ic 為字尾。合起來就是「無痛的 -> 止痛劑、鎮痛劑」（如阿斯匹靈、普拿疼）。"
+    },
+    {
+      "en": "argentite",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "argentite",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "caprolactam",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "caprolactam",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "carotene",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "carotene",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "carvone",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "carvone",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "cerargyrite",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "cerargyrite",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "chemical bond",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "chemical bond",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "cis fat",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "cis fat",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "clostridium",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "clostridium",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "coal",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "coal",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "coating",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "coating",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "cobalt",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "cobalt",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "cocaine",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "cocaine",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "coke",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "coke",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "colloid",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "colloid",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "complex",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "complex",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "compound",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "compound",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "cosmetic",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "cosmetic",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "critical",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "critical",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "crown",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "crown",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "crude",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "crude",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "cystine",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "cystine",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "decantation",
+      "field": "口訣",
+      "v11": "decantation=傾析：靜置後倒出上層液體的分離操作",
+      "legacy": "decantation=de(去)+cant(傾)，傾析"
+    },
+    {
+      "en": "derivative",
+      "field": "口訣",
+      "v11": "derivative=導數／衍生物：依語境判斷是變化率或衍生化合物",
+      "legacy": "derivative=deriva(引出)+tive，衍生物/衍生的"
+    },
+    {
+      "en": "detergent",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "detergent",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "diamond",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "diamond",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "digestion",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "digestion",
+      "field": "口訣",
+      "v11": "digest=消化：把食物分解成可吸收的小分子",
+      "legacy": ""
+    },
+    {
+      "en": "direct method",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "direct method",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "dissolution",
+      "field": "口訣",
+      "v11": "dissolve=溶解 + -tion=過程：形成溶液的過程",
+      "legacy": "dissolution=dis(分開)+solution，溶解"
+    },
+    {
+      "en": "doping",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "doping",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "dose",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "dose",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "drug",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "drug",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "dyestuff",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "dyestuff",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "end point",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "end point",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "enol",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "enol",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "eukaryote",
+      "field": "口訣",
+      "v11": "eu=真正 + kary=細胞核：具有真正細胞核的生物",
+      "legacy": "eukaryote=真核生物，eu(真)+karyo(核)，有細胞核"
+    },
+    {
+      "en": "eutrophication",
+      "field": "口訣",
+      "v11": "eu=良好/過度 + troph=營養 + -ication=過程：水體營養鹽過多，藻類大量生長造成缺氧",
+      "legacy": "eutrophication=優養化，藻類過度生長，水體缺氧"
+    },
+    {
+      "en": "family",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "family",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "fat",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "fat",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "femtochemistry",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "femtochemistry",
+      "field": "口訣",
+      "v11": "femto=10^-15；研究飛秒尺度的超快反應",
+      "legacy": ""
+    },
+    {
+      "en": "femtosecond",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "femtosecond",
+      "field": "口訣",
+      "v11": "femto=10^-15 + second=秒：飛秒",
+      "legacy": ""
+    },
+    {
+      "en": "fiber",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "fiber",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "flavanol",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "flavanol",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "foam",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "foam",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "formalin",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "formalin",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "glue",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "glue",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "gluelike",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "gluelike",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "group",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "group",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "halon",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "halon",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "heterogeneous",
+      "field": "口訣",
+      "v11": "hetero=不同：heterogeneous mixture=非均相／不均勻混合物",
+      "legacy": "hetero(不同)+gen+eous=異質的，不均勻"
+    },
+    {
+      "en": "homogeneous",
+      "field": "口訣",
+      "v11": "homo=相同：homogeneous mixture=均相／均勻混合物",
+      "legacy": "homo(相同)+gen+eous=同質的，成分均勻"
+    },
+    {
+      "en": "hydracid",
+      "field": "口訣",
+      "v11": "hydr/hydro=[氫] + acid=酸：氫酸，如 HCl",
+      "legacy": "hydracid=hydr(氫)+acid，氫酸如HCl"
+    },
+    {
+      "en": "hydrocarbon",
+      "field": "口訣",
+      "v11": "hydro=[氫] + carbon=[碳]：碳氫化合物",
+      "legacy": "hydrocarbon=hydro(氫/水)+carbon，碳氫化合物"
+    },
+    {
+      "en": "hydrogen",
+      "field": "口訣",
+      "v11": "hydro=[氫] + gen=生成：氫的生成者 H₂",
+      "legacy": "hydro(水)+gen=hydrogen，水的生成者H2"
+    },
+    {
+      "en": "hydrogenation",
+      "field": "口訣",
+      "v11": "hydro=[氫] + -ation：加氫反應，不飽和 → 飽和",
+      "legacy": "hydrogenation=加氫反應，不飽和→飽和"
+    },
+    {
+      "en": "hydrolysis",
+      "field": "口訣",
+      "v11": "hydro=[水] + lysis=分解：水解",
+      "legacy": "hydrolysis=hydro(水)+lysis(分解)，水解"
+    },
+    {
+      "en": "hydrophilic",
+      "field": "口訣",
+      "v11": "hydro=[水] + philic=親：親水性",
+      "legacy": "hydrophilic=hydro(水)+philic(親)，親水性"
+    },
+    {
+      "en": "hydrophobic",
+      "field": "口訣",
+      "v11": "hydro=[水] + phobic=怕：疏水性",
+      "legacy": "hydrophobic=hydro(水)+phobic(怕)，疏水性"
+    },
+    {
+      "en": "hydroquinone",
+      "field": "口訣",
+      "v11": "hydro=[氫] + quinone=醌：氫醌（對苯二酚）",
+      "legacy": "hydroquinone=氫醌，對苯二酚，攝影顯影液"
+    },
+    {
+      "en": "karat",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "karat",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "knocking",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "knocking",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "ligand",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "ligand",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "margarine",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "margarine",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "mask",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "mask",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "material",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "material",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "mendelevium",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "mendelevium",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "meta",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "meta",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "micelle",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "micelle",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "naphthol",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "naphthol",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "nitinol",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "nitinol",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "oil",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "oil",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "olestra",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "olestra",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "overlap",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "overlap",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "oxalis",
+      "field": "語源",
+      "v11": "oxalis=酢漿草屬（植物名），非典型化學字根",
+      "legacy": ""
+    },
+    {
+      "en": "oxalis",
+      "field": "口訣",
+      "v11": "oxalis 為植物屬名，建議學生視為跨領域延伸字",
+      "legacy": ""
+    },
+    {
+      "en": "packing",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "packing",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "paint",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "paint",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "peptization",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "peptization",
+      "field": "口訣",
+      "v11": "peptization=膠溶作用：沉澱轉變為膠體分散系",
+      "legacy": ""
+    },
+    {
+      "en": "period",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "period",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "petroleum",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "petroleum",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "phase",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "phase",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "phenols",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "phenols",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "pigment",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "pigment",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "pixel",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "pixel",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "quinone",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "quinone",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "rancidity",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "rancidity",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "rayon",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "rayon",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "saccharide",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "saccharide",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "single",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "single",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "sol",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "sol",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "solid",
+      "field": "口訣",
+      "v11": "solid=固體：具有固定形狀與體積的物質狀態",
+      "legacy": "solid=固體，sol(固定)+id，有固定形狀體積"
+    },
+    {
+      "en": "solution",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "solution",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "sorbite",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "sorbite",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "standardization",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "standardization",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "starch",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "starch",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "substrate",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "substrate",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "syneresis",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "syneresis",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "thyroxine",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "thyroxine",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "tribromophenol",
+      "field": "語源",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "tribromophenol",
+      "field": "口訣",
+      "v11": "0",
+      "legacy": ""
+    },
+    {
+      "en": "ubiquitin",
+      "field": "口訣",
+      "v11": "ubiquitin=泛素：標記蛋白質，協助細胞進行蛋白質降解",
+      "legacy": "ubiquit- 源自 ubiquitous（無所不在的，源於拉丁文 ubique「到處」），-in 表示蛋白質。合起來就是「泛素」（一種在所有真核細胞中都廣泛存在且無所不在的小分子蛋白質，負責標記需要降解的廢棄蛋白質）。"
+    }
+  ],
+  "categoryPairs": [
+    {
+      "en": "absolute",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "solution / conc."
+    },
+    {
+      "en": "acetamide",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "acetaminophen",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "acetanilide",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "acetic acid",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "acetone",
+      "v11": "one ketone 酮",
+      "legacy": "-one"
+    },
+    {
+      "en": "acetyl",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "acid",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "acid rain",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "acid salt",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "acid soil",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "acidity",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "actinides",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "activation",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "actomyosin",
+      "v11": "amino acid 胺基酸蛋白",
+      "legacy": "amino acid"
+    },
+    {
+      "en": "acyclic",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "acyl",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "addition",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "Chemical Eng."
+    },
+    {
+      "en": "adenine",
+      "v11": "nucleic 核酸嘌呤嘧啶",
+      "legacy": "nucleic"
+    },
+    {
+      "en": "adenosine",
+      "v11": "nucleic 核酸嘌呤嘧啶",
+      "legacy": "nucleic"
+    },
+    {
+      "en": "adhesive",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "aeration",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "affinity",
+      "v11": "philic phobic 親疏",
+      "legacy": "-philic / -phobic"
+    },
+    {
+      "en": "alanine",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "alcohol",
+      "v11": "ol alcohol 醇",
+      "legacy": "-ol"
+    },
+    {
+      "en": "aldehydes",
+      "v11": "al aldehyde 醛",
+      "legacy": "-al"
+    },
+    {
+      "en": "algae",
+      "v11": "bio 字首生命",
+      "legacy": "bio-"
+    },
+    {
+      "en": "algal",
+      "v11": "bio 字首生命",
+      "legacy": "bio-"
+    },
+    {
+      "en": "alicyclic",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "aliphatic",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "alkali",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "alkaline",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "alkane",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "alkylation",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "alkyne",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "allotrope",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "iso-"
+    },
+    {
+      "en": "alloy",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "alum",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "amalgam",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "amide",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "amine",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "ammonia",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "amorphous",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "amphoteric",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "amylase",
+      "v11": "-ase enzyme / 酶",
+      "legacy": "-ase"
+    },
+    {
+      "en": "amylopectin",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "amylose",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "analgesic",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "aniline",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "anion",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "anode",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "antacid",
+      "v11": "anti 字首對抗",
+      "legacy": "anti-"
+    },
+    {
+      "en": "anthracene",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "antibiotic",
+      "v11": "anti 字首對抗",
+      "legacy": "anti-"
+    },
+    {
+      "en": "antiknocking",
+      "v11": "anti 字首對抗",
+      "legacy": "anti-"
+    },
+    {
+      "en": "antioxidant",
+      "v11": "oxy / ox 氧化",
+      "legacy": "oxy- / ox-"
+    },
+    {
+      "en": "antiphlogistic",
+      "v11": "anti 字首對抗",
+      "legacy": "anti-"
+    },
+    {
+      "en": "aqua",
+      "v11": "hydro aqua 水 [氫/水]",
+      "legacy": "hydro- / aqua-"
+    },
+    {
+      "en": "aqueous",
+      "v11": "hydro aqua 水 [氫/水]",
+      "legacy": "hydro- / aqua-"
+    },
+    {
+      "en": "arene",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "arenes",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "argentite",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "argon",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "aspirin",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "atmosphere",
+      "v11": "sphere 大氣層",
+      "legacy": "-sphere"
+    },
+    {
+      "en": "atom",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "atomic",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "atomism",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "Avogadro",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "bakelite",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "balance",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "Chemical Eng."
+    },
+    {
+      "en": "base",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "bases",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "battery",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "bauxite",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "benzaldehyde",
+      "v11": "al aldehyde 醛",
+      "legacy": "-al"
+    },
+    {
+      "en": "benzamide",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "benzene",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "bidentate",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "biofuel",
+      "v11": "bio 字首生命",
+      "legacy": "bio-"
+    },
+    {
+      "en": "Bohr",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "boiling",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "bond",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "bonding",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "Boyle",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "bromopropane",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "butanol",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "caffeine",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "calcium",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "calorie",
+      "v11": "therm calor 熱",
+      "legacy": "therm- / calor-"
+    },
+    {
+      "en": "caprolactam",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "carbocation",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "carbohydrate",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "carbon",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "carotene",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "carvone",
+      "v11": "one ketone 酮",
+      "legacy": "-one"
+    },
+    {
+      "en": "cassiterite",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "catalyst",
+      "v11": "-ase enzyme / 酶",
+      "legacy": "-ase"
+    },
+    {
+      "en": "catechin",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "cathode",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "cation",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "CCFL",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "cell",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "celluloid",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "cellulose",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "ceramic",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "cerargyrite",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "chelate",
+      "v11": "ester ate 酯",
+      "legacy": "-ester / -ate"
+    },
+    {
+      "en": "chemical",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "chemical bond",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "chemistry",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "chemosphere",
+      "v11": "sphere 大氣層",
+      "legacy": "-sphere"
+    },
+    {
+      "en": "chitin",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "chlordan",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "chlordane",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "chlorella",
+      "v11": "bio 字首生命",
+      "legacy": "bio-"
+    },
+    {
+      "en": "chlorellales",
+      "v11": "bio 字首生命",
+      "legacy": "bio-"
+    },
+    {
+      "en": "chlorobenzene",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "chlorobutane",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "chloroethene",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "chloroform",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "chloromethane",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "chlorophyll",
+      "v11": "bio 字首生命",
+      "legacy": "photo-"
+    },
+    {
+      "en": "cholesteric",
+      "v11": "ol alcohol 醇",
+      "legacy": "-ol"
+    },
+    {
+      "en": "chromatography",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "Chemical Eng."
+    },
+    {
+      "en": "cis fat",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "clay",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "clostridium",
+      "v11": "bio 字首生命",
+      "legacy": "bio-"
+    },
+    {
+      "en": "coagulant",
+      "v11": "colloid 膠體界面",
+      "legacy": "colloid"
+    },
+    {
+      "en": "coagulation",
+      "v11": "colloid 膠體界面",
+      "legacy": "colloid"
+    },
+    {
+      "en": "coal",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "coating",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "cobalt",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "cocaine",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "coenzyme",
+      "v11": "-ase enzyme / 酶",
+      "legacy": "-ase"
+    },
+    {
+      "en": "cofactor",
+      "v11": "-ase enzyme / 酶",
+      "legacy": "-ase"
+    },
+    {
+      "en": "coke",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "collagen",
+      "v11": "-gen 產生 / 生成",
+      "legacy": "-gen"
+    },
+    {
+      "en": "collision",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "colloid",
+      "v11": "colloid 膠體界面",
+      "legacy": "colloid"
+    },
+    {
+      "en": "combustion",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "complex",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "compound",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "concentration",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "solution / conc."
+    },
+    {
+      "en": "condensation",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "conformation",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "conjugate",
+      "v11": "模組：物理化學與熱力學",
+      "legacy": "Physical Chem"
+    },
+    {
+      "en": "copolymer",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "cosmetic",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "covalent",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "cracking",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "critical",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "crown",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "crude",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "cryolite",
+      "v11": "cryst latt 晶體",
+      "legacy": "cryst- / latt-"
+    },
+    {
+      "en": "crystal",
+      "v11": "cryst latt 晶體",
+      "legacy": "cryst- / latt-"
+    },
+    {
+      "en": "crystalloid",
+      "v11": "cryst latt 晶體",
+      "legacy": "cryst- / latt-"
+    },
+    {
+      "en": "curium",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "cyclopropane",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "cysteine",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "cystine",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "cytosine",
+      "v11": "nucleic 核酸嘌呤嘧啶",
+      "legacy": "nucleic"
+    },
+    {
+      "en": "decalcifier",
+      "v11": "de 字首去除",
+      "legacy": "de-"
+    },
+    {
+      "en": "decantation",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "de-"
+    },
+    {
+      "en": "decomposition",
+      "v11": "de 字首去除",
+      "legacy": "de-"
+    },
+    {
+      "en": "dehydration",
+      "v11": "de 字首去除",
+      "legacy": "de-"
+    },
+    {
+      "en": "delocalization",
+      "v11": "de 字首去除",
+      "legacy": "de-"
+    },
+    {
+      "en": "delocalized",
+      "v11": "de 字首去除",
+      "legacy": "de-"
+    },
+    {
+      "en": "denaturation",
+      "v11": "de 字首去除",
+      "legacy": "de-"
+    },
+    {
+      "en": "deodorization",
+      "v11": "de 字首去除",
+      "legacy": "de-"
+    },
+    {
+      "en": "deposition",
+      "v11": "de 字首去除",
+      "legacy": "de-"
+    },
+    {
+      "en": "derivative",
+      "v11": "模組：物理化學與熱力學",
+      "legacy": "de-"
+    },
+    {
+      "en": "detergent",
+      "v11": "philic phobic 親疏",
+      "legacy": "-philic / -phobic"
+    },
+    {
+      "en": "diamagnetism",
+      "v11": "模組：物理化學與熱力學",
+      "legacy": "Physical Chem"
+    },
+    {
+      "en": "diamond",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "diffusion",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "digestion",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "-lysis"
+    },
+    {
+      "en": "dimerization",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "dimethyl",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "dimethyl mercury",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "dioxane",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "dioxins",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "disaccharide",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "disinfection",
+      "v11": "dis 字首分離",
+      "legacy": "dis-"
+    },
+    {
+      "en": "disproportionation",
+      "v11": "oxy / ox 氧化",
+      "legacy": "oxy- / ox-"
+    },
+    {
+      "en": "dissolution",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "-lysis"
+    },
+    {
+      "en": "distillation",
+      "v11": "dis 字首分離",
+      "legacy": "dis-"
+    },
+    {
+      "en": "disulfide",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "dopamine",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "dose",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "dropper",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "Chemical Eng."
+    },
+    {
+      "en": "drug",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "ductility",
+      "v11": "duct duce 引導傳導",
+      "legacy": "-duct / -duce"
+    },
+    {
+      "en": "dyestuff",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "effusion",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "Einstein",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "electric",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "electrode",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "electronegativity",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "electrophoresis",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "element",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "emulsion",
+      "v11": "philic phobic 親疏",
+      "legacy": "-philic / -phobic"
+    },
+    {
+      "en": "endothermic",
+      "v11": "therm calor 熱",
+      "legacy": "therm- / calor-"
+    },
+    {
+      "en": "enol",
+      "v11": "ol alcohol 醇",
+      "legacy": "-ol"
+    },
+    {
+      "en": "enthalpy",
+      "v11": "therm calor 熱",
+      "legacy": "therm- / calor-"
+    },
+    {
+      "en": "enzyme",
+      "v11": "-ase enzyme / 酶",
+      "legacy": "-ase"
+    },
+    {
+      "en": "ester",
+      "v11": "ester ate 酯",
+      "legacy": "-ester / -ate"
+    },
+    {
+      "en": "esters",
+      "v11": "ester ate 酯",
+      "legacy": "-ester / -ate"
+    },
+    {
+      "en": "ethanal",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "ethane",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "ether",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "ethylamine",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "ethylbenzene",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "ethyne",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "eukaryote",
+      "v11": "bio 字首生命",
+      "legacy": "nucleic"
+    },
+    {
+      "en": "eutectic",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "eutrophication",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "electr-"
+    },
+    {
+      "en": "evaporation",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "exothermic",
+      "v11": "therm calor 熱",
+      "legacy": "therm- / calor-"
+    },
+    {
+      "en": "extraction",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "family",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "Faraday",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "fat",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "femtochemistry",
+      "v11": "模組：物理化學與熱力學",
+      "legacy": "photo-"
+    },
+    {
+      "en": "femtosecond",
+      "v11": "模組：物理化學與熱力學",
+      "legacy": "photo-"
+    },
+    {
+      "en": "fiber",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "filtration",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "Fischer",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "fission",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "flavanol",
+      "v11": "ol alcohol 醇",
+      "legacy": "-ol"
+    },
+    {
+      "en": "fluid",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "foam",
+      "v11": "colloid 膠體界面",
+      "legacy": "colloid"
+    },
+    {
+      "en": "formaldehyde",
+      "v11": "al aldehyde 醛",
+      "legacy": "-al"
+    },
+    {
+      "en": "formalin",
+      "v11": "al aldehyde 醛",
+      "legacy": "-al"
+    },
+    {
+      "en": "formic",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "Franklin",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "freezing",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "freon",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "fructose",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "fullerenes",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "fusion",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "galactose",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "galena",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "Galvani",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "galvanic",
+      "v11": "electr 電",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "gas",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "gel",
+      "v11": "colloid 膠體界面",
+      "legacy": "colloid"
+    },
+    {
+      "en": "glass",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "glucose",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "glue",
+      "v11": "colloid 膠體界面",
+      "legacy": "colloid"
+    },
+    {
+      "en": "gluelike",
+      "v11": "colloid 膠體界面",
+      "legacy": "colloid"
+    },
+    {
+      "en": "glycerol",
+      "v11": "ol alcohol 醇",
+      "legacy": "-ol"
+    },
+    {
+      "en": "glycine",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "glycogen",
+      "v11": "-gen 產生 / 生成",
+      "legacy": "-gen"
+    },
+    {
+      "en": "graphite",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "group",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "guanine",
+      "v11": "nucleic 核酸嘌呤嘧啶",
+      "legacy": "nucleic"
+    },
+    {
+      "en": "halide",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "Hall",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "halogen",
+      "v11": "-gen 產生 / 生成",
+      "legacy": "-gen"
+    },
+    {
+      "en": "halogenation",
+      "v11": "-gen 產生 / 生成",
+      "legacy": "-gen"
+    },
+    {
+      "en": "halon",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "helium",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "helix",
+      "v11": "amino acid 胺基酸蛋白",
+      "legacy": "amino acid"
+    },
+    {
+      "en": "heme",
+      "v11": "amino acid 胺基酸蛋白",
+      "legacy": "amino acid"
+    },
+    {
+      "en": "Henry",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "heroin",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "heterogeneous",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "-gen"
+    },
+    {
+      "en": "histone",
+      "v11": "amino acid 胺基酸蛋白",
+      "legacy": "amino acid"
+    },
+    {
+      "en": "homogeneous",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "-gen"
+    },
+    {
+      "en": "homopolymer",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "hormone",
+      "v11": "amino acid 胺基酸蛋白",
+      "legacy": "amino acid"
+    },
+    {
+      "en": "hybrid",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "hybridization",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "hydracid",
+      "v11": "hydro aqua 水 [氫/水]",
+      "legacy": "hydro- / aqua-"
+    },
+    {
+      "en": "hydrocarbon",
+      "v11": "hydro aqua 水 [氫/水]",
+      "legacy": "hydro- / aqua-"
+    },
+    {
+      "en": "hydrogen",
+      "v11": "hydro aqua 水 [氫/水]",
+      "legacy": "hydro- / aqua-"
+    },
+    {
+      "en": "hydrogenation",
+      "v11": "hydro aqua 水 [氫/水]",
+      "legacy": "hydro- / aqua-"
+    },
+    {
+      "en": "hydrolysis",
+      "v11": "hydro aqua 水 [氫/水]",
+      "legacy": "hydro- / aqua-"
+    },
+    {
+      "en": "hydrophilic",
+      "v11": "hydro aqua 水 [氫/水]",
+      "legacy": "hydro- / aqua-"
+    },
+    {
+      "en": "hydrophobic",
+      "v11": "hydro aqua 水 [氫/水]",
+      "legacy": "hydro- / aqua-"
+    },
+    {
+      "en": "hydroquinone",
+      "v11": "模組：有機與官能基",
+      "legacy": "hydro- / aqua-"
+    },
+    {
+      "en": "inhibitor",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "insulin",
+      "v11": "amino acid 胺基酸蛋白",
+      "legacy": "amino acid"
+    },
+    {
+      "en": "iodine",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "iodoethane",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "iodomethane",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "ionosphere",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "isobar",
+      "v11": "iso 字首等同",
+      "legacy": "iso-"
+    },
+    {
+      "en": "isobutane",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "isomer",
+      "v11": "iso 字首等同",
+      "legacy": "iso-"
+    },
+    {
+      "en": "isomeride",
+      "v11": "iso 字首等同",
+      "legacy": "iso-"
+    },
+    {
+      "en": "isomerization",
+      "v11": "iso 字首等同",
+      "legacy": "iso-"
+    },
+    {
+      "en": "isomorph",
+      "v11": "iso 字首等同",
+      "legacy": "iso-"
+    },
+    {
+      "en": "isopentane",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "isotope",
+      "v11": "iso 字首等同",
+      "legacy": "iso-"
+    },
+    {
+      "en": "joule",
+      "v11": "therm calor 熱",
+      "legacy": "therm- / calor-"
+    },
+    {
+      "en": "karat",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "keratin",
+      "v11": "amino acid 胺基酸蛋白",
+      "legacy": "amino acid"
+    },
+    {
+      "en": "ketones",
+      "v11": "one ketone 酮",
+      "legacy": "-one"
+    },
+    {
+      "en": "Kevlar",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "kilojoule",
+      "v11": "therm calor 熱",
+      "legacy": "therm- / calor-"
+    },
+    {
+      "en": "Kirchhoff",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "knocking",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "krypton",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "lactose",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "lanthanides",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "Laplace",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "lattice",
+      "v11": "cryst latt 晶體",
+      "legacy": "cryst- / latt-"
+    },
+    {
+      "en": "ligand",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "lipophilic",
+      "v11": "philic phobic 親疏",
+      "legacy": "-philic / -phobic"
+    },
+    {
+      "en": "liquid",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "luciferase",
+      "v11": "-ase enzyme / 酶",
+      "legacy": "-ase"
+    },
+    {
+      "en": "malleability",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "maltase",
+      "v11": "-ase enzyme / 酶",
+      "legacy": "-ase"
+    },
+    {
+      "en": "maltose",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "margarine",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "marijuana",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "mask",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "mass",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "material",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "matter",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "melamine",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "mendelevium",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "mesosphere",
+      "v11": "sphere 大氣層",
+      "legacy": "-sphere"
+    },
+    {
+      "en": "metal",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "metalloid",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "meter",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "Chemical Eng."
+    },
+    {
+      "en": "methanal",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "methane",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "methanol",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "methyl",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "methylamine",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "micelle",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "mineral",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "miscible",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "solution / conc."
+    },
+    {
+      "en": "mixture",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "solution / conc."
+    },
+    {
+      "en": "mol",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "solution / conc."
+    },
+    {
+      "en": "molality",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "solution / conc."
+    },
+    {
+      "en": "molarity",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "solution / conc."
+    },
+    {
+      "en": "mole",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "solution / conc."
+    },
+    {
+      "en": "molecular",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "solution / conc."
+    },
+    {
+      "en": "monoclinic",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "monomer",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "monomeric",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "morphine",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "myoglobin",
+      "v11": "amino acid 胺基酸蛋白",
+      "legacy": "amino acid"
+    },
+    {
+      "en": "Nafion",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "nano",
+      "v11": "nano 奈米",
+      "legacy": "nano-"
+    },
+    {
+      "en": "nanomaterials",
+      "v11": "nano 奈米",
+      "legacy": "nano-"
+    },
+    {
+      "en": "nanometer",
+      "v11": "nano 奈米",
+      "legacy": "nano-"
+    },
+    {
+      "en": "nanoparticle",
+      "v11": "nano 奈米",
+      "legacy": "nano-"
+    },
+    {
+      "en": "nanotube",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "naphthol",
+      "v11": "ol alcohol 醇",
+      "legacy": "-ol"
+    },
+    {
+      "en": "nematic",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "neon",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "neoprene",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "neutron",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "Newton",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "nicotine",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "nitinol",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "nitration",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "nitrogen",
+      "v11": "-gen 產生 / 生成",
+      "legacy": "-gen"
+    },
+    {
+      "en": "nitroglycerin",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "noble gas",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "nonanal",
+      "v11": "al aldehyde 醛",
+      "legacy": "-al"
+    },
+    {
+      "en": "nonanol",
+      "v11": "ol alcohol 醇",
+      "legacy": "-ol"
+    },
+    {
+      "en": "nonelectrolyte",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "nonmetal",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "nonmetallic element",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "nonspontaneous",
+      "v11": "模組：物理化學與熱力學",
+      "legacy": "Physical Chem"
+    },
+    {
+      "en": "normality",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "solution / conc."
+    },
+    {
+      "en": "nucleus",
+      "v11": "nucleic 核酸嘌呤嘧啶",
+      "legacy": "nucleic"
+    },
+    {
+      "en": "nylon",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "o-xylene",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "oil",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "olestra",
+      "v11": "ester ate 酯",
+      "legacy": "-ester / -ate"
+    },
+    {
+      "en": "orbit",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "orbital",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "osmosis",
+      "v11": "模組：物理化學與熱力學",
+      "legacy": "Physical Chem"
+    },
+    {
+      "en": "overlap",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "oxalis",
+      "v11": "未分類雜項",
+      "legacy": "oxy- / ox-"
+    },
+    {
+      "en": "oxidant",
+      "v11": "oxy / ox 氧化",
+      "legacy": "oxy- / ox-"
+    },
+    {
+      "en": "oxyacid",
+      "v11": "oxy / ox 氧化",
+      "legacy": "oxy- / ox-"
+    },
+    {
+      "en": "oxygen",
+      "v11": "-gen 產生 / 生成",
+      "legacy": "-gen"
+    },
+    {
+      "en": "ozone",
+      "v11": "oxy / ox 氧化",
+      "legacy": "oxy- / ox-"
+    },
+    {
+      "en": "packing",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "Chemical Eng."
+    },
+    {
+      "en": "paint",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "Panadol",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "paraffin",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "particle",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "penicillin",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "pentane",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "pentanol",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "pentanone",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "pentose",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "pepsin",
+      "v11": "-ase enzyme / 酶",
+      "legacy": "-ase"
+    },
+    {
+      "en": "peptization",
+      "v11": "colloid 膠體界面",
+      "legacy": "-lysis"
+    },
+    {
+      "en": "period",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "petroleum",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "phase",
+      "v11": "模組：物理化學與熱力學",
+      "legacy": "Physical Chem"
+    },
+    {
+      "en": "phenol",
+      "v11": "ol alcohol 醇",
+      "legacy": "-ol"
+    },
+    {
+      "en": "phenols",
+      "v11": "ol alcohol 醇",
+      "legacy": "-ol"
+    },
+    {
+      "en": "phosphate",
+      "v11": "ester ate 酯",
+      "legacy": "-ester / -ate"
+    },
+    {
+      "en": "phosphorus",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "photocatalyst",
+      "v11": "photo 光 / 光化",
+      "legacy": "photo-"
+    },
+    {
+      "en": "photoresist",
+      "v11": "photo 光 / 光化",
+      "legacy": "photo-"
+    },
+    {
+      "en": "photosynthesis",
+      "v11": "photo 光 / 光化",
+      "legacy": "photo-"
+    },
+    {
+      "en": "pigment",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "pixel",
+      "v11": "模組：環境與其他化學字彙",
+      "legacy": "Environmental & Misc"
+    },
+    {
+      "en": "plasma",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "plastic",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "polyamide",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "polyelectrolyte",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "polyester",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "polyethylene",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "polymer",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "polymerization",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "polypeptide",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "polyphenols",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "polypropylene",
+      "v11": "poly mono di 多單二",
+      "legacy": "poly- / mono- / di-"
+    },
+    {
+      "en": "polyurethane",
+      "v11": "poly mono di 多單二",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "potential",
+      "v11": "模組：物理化學與熱力學",
+      "legacy": "Physical Chem"
+    },
+    {
+      "en": "precipitation",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "probability",
+      "v11": "模組：物理化學與熱力學",
+      "legacy": "Physical Chem"
+    },
+    {
+      "en": "product",
+      "v11": "duct duce 引導傳導",
+      "legacy": "-duct / -duce"
+    },
+    {
+      "en": "propanal",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "propanol",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "propene",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "propyne",
+      "v11": "有機碳鏈 / MEPB",
+      "legacy": "MEPB"
+    },
+    {
+      "en": "protein",
+      "v11": "amino acid 胺基酸蛋白",
+      "legacy": "amino acid"
+    },
+    {
+      "en": "proton",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "purification",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "electr-"
+    },
+    {
+      "en": "pyrite",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "quartz",
+      "v11": "cryst latt 晶體",
+      "legacy": "cryst- / latt-"
+    },
+    {
+      "en": "quasicrystal",
+      "v11": "cryst latt 晶體",
+      "legacy": "cryst- / latt-"
+    },
+    {
+      "en": "quinone",
+      "v11": "one ketone 酮",
+      "legacy": "-one"
+    },
+    {
+      "en": "radioactivity",
+      "v11": "模組：物理化學與熱力學",
+      "legacy": "Physical Chem"
+    },
+    {
+      "en": "radon",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "rancidity",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "rayon",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "reactant",
+      "v11": "re 字首再重複",
+      "legacy": "re-"
+    },
+    {
+      "en": "reaction",
+      "v11": "re 字首再重複",
+      "legacy": "re-"
+    },
+    {
+      "en": "recovery",
+      "v11": "re 字首再重複",
+      "legacy": "re-"
+    },
+    {
+      "en": "recrystallization",
+      "v11": "cryst latt 晶體",
+      "legacy": "cryst- / latt-"
+    },
+    {
+      "en": "recycle",
+      "v11": "re 字首再重複",
+      "legacy": "re-"
+    },
+    {
+      "en": "reduce",
+      "v11": "re 字首再重複",
+      "legacy": "re-"
+    },
+    {
+      "en": "reductant",
+      "v11": "re 字首再重複",
+      "legacy": "re-"
+    },
+    {
+      "en": "reduction",
+      "v11": "re 字首再重複",
+      "legacy": "re-"
+    },
+    {
+      "en": "reforming",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "regeneration",
+      "v11": "-gen 產生 / 生成",
+      "legacy": "-gen"
+    },
+    {
+      "en": "reuse",
+      "v11": "re 字首再重複",
+      "legacy": "re-"
+    },
+    {
+      "en": "ribose",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "rotor",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "Chemical Eng."
+    },
+    {
+      "en": "rubber",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "saccharide",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "salicylate",
+      "v11": "ester ate 酯",
+      "legacy": "-ester / -ate"
+    },
+    {
+      "en": "salt",
+      "v11": "模組：無機化學與酸鹼",
+      "legacy": "Inorganic Chem"
+    },
+    {
+      "en": "saponification",
+      "v11": "模組：有機與官能基",
+      "legacy": "electr-"
+    },
+    {
+      "en": "scale",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "Chemical Eng."
+    },
+    {
+      "en": "semiconductor",
+      "v11": "duct duce 引導傳導",
+      "legacy": "-duct / -duce"
+    },
+    {
+      "en": "separation",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "Chemical Eng."
+    },
+    {
+      "en": "shell",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "silver",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "single",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "smectic",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "Materials & States"
+    },
+    {
+      "en": "soap",
+      "v11": "philic phobic 親疏",
+      "legacy": "-philic / -phobic"
+    },
+    {
+      "en": "soda",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "sol",
+      "v11": "colloid 膠體界面",
+      "legacy": "colloid"
+    },
+    {
+      "en": "solid",
+      "v11": "模組：材料與物理狀態",
+      "legacy": "colloid"
+    },
+    {
+      "en": "solubility",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "solution / conc."
+    },
+    {
+      "en": "solute",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "solution / conc."
+    },
+    {
+      "en": "solution",
+      "v11": "solution conc 溶液濃度",
+      "legacy": "solution / conc."
+    },
+    {
+      "en": "sorbite",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "sorbitol",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "spectrometer",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "photo-"
+    },
+    {
+      "en": "spectrum",
+      "v11": "photo 光 / 光化",
+      "legacy": "photo-"
+    },
+    {
+      "en": "standardization",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "starch",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "stereoisomer",
+      "v11": "iso 字首等同",
+      "legacy": "iso-"
+    },
+    {
+      "en": "stratosphere",
+      "v11": "sphere 大氣層",
+      "legacy": "-sphere"
+    },
+    {
+      "en": "strontium",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "styrene",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "sublimation",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "subshell",
+      "v11": "模組：原子結構與鍵結",
+      "legacy": "Atomic Structure"
+    },
+    {
+      "en": "subsoil",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "substitution",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "sucrose",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "sulfonation",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "superacid",
+      "v11": "super 字首超",
+      "legacy": "super-"
+    },
+    {
+      "en": "superconductor",
+      "v11": "super 字首超",
+      "legacy": "super-"
+    },
+    {
+      "en": "superoxide",
+      "v11": "oxy / ox 氧化",
+      "legacy": "oxy- / ox-"
+    },
+    {
+      "en": "surfactant",
+      "v11": "philic phobic 親疏",
+      "legacy": "-philic / -phobic"
+    },
+    {
+      "en": "syneresis",
+      "v11": "colloid 膠體界面",
+      "legacy": "colloid"
+    },
+    {
+      "en": "tannin",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "Teflon",
+      "v11": "polymer material 高分子材料",
+      "legacy": "polymer material"
+    },
+    {
+      "en": "temperature",
+      "v11": "therm calor 熱",
+      "legacy": "therm- / calor-"
+    },
+    {
+      "en": "tempering",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "Chemical Eng."
+    },
+    {
+      "en": "theaflavin",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "thearubigin",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "theophylline",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "thermochemistry",
+      "v11": "therm calor 熱",
+      "legacy": "therm- / calor-"
+    },
+    {
+      "en": "thermometer",
+      "v11": "therm calor 熱",
+      "legacy": "therm- / calor-"
+    },
+    {
+      "en": "thermoplastic",
+      "v11": "therm calor 熱",
+      "legacy": "therm- / calor-"
+    },
+    {
+      "en": "thermosetting",
+      "v11": "therm calor 熱",
+      "legacy": "therm- / calor-"
+    },
+    {
+      "en": "thermosphere",
+      "v11": "therm calor 熱",
+      "legacy": "therm- / calor-"
+    },
+    {
+      "en": "Thomson",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "thymine",
+      "v11": "nucleic 核酸嘌呤嘧啶",
+      "legacy": "nucleic"
+    },
+    {
+      "en": "thyroxine",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "toluene",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "topsoil",
+      "v11": "模組：有機與官能基",
+      "legacy": "Organic Chem"
+    },
+    {
+      "en": "tracer",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "Chemical Eng."
+    },
+    {
+      "en": "transition",
+      "v11": "-tion / -ion 反應名詞",
+      "legacy": "-tion / -ion"
+    },
+    {
+      "en": "tribromophenol",
+      "v11": "ol alcohol 醇",
+      "legacy": "-ol"
+    },
+    {
+      "en": "troposphere",
+      "v11": "sphere 大氣層",
+      "legacy": "-sphere"
+    },
+    {
+      "en": "ubiquitin",
+      "v11": "amino acid 胺基酸蛋白",
+      "legacy": "nucleic"
+    },
+    {
+      "en": "ultraviolet",
+      "v11": "photo 光 / 光化",
+      "legacy": "photo-"
+    },
+    {
+      "en": "uracil",
+      "v11": "nucleic 核酸嘌呤嘧啶",
+      "legacy": "nucleic"
+    },
+    {
+      "en": "urea",
+      "v11": "模組：生化與醫藥食品",
+      "legacy": "Biochem & Medicine"
+    },
+    {
+      "en": "valine",
+      "v11": "amine amide 胺醯胺",
+      "legacy": "amine / amide"
+    },
+    {
+      "en": "voltage",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    },
+    {
+      "en": "wafer",
+      "v11": "cryst latt 晶體",
+      "legacy": "cryst- / latt-"
+    },
+    {
+      "en": "xenon",
+      "v11": "mineral inorganic 礦物無機",
+      "legacy": "mineral / inorganic"
+    },
+    {
+      "en": "xylene",
+      "v11": "carbo carbon 碳烴",
+      "legacy": "carbo- / carbon-"
+    },
+    {
+      "en": "xylitol",
+      "v11": "ose sacchar 糖",
+      "legacy": "-ose / sacchar-"
+    },
+    {
+      "en": "yield",
+      "v11": "模組：化工操作與實驗",
+      "legacy": "Chemical Eng."
+    },
+    {
+      "en": "Ziegler",
+      "v11": "人名 / Scientists Names",
+      "legacy": "Scientists Names"
+    },
+    {
+      "en": "zwitterion",
+      "v11": "electr 電",
+      "legacy": "electr-"
+    }
+  ]
+}
