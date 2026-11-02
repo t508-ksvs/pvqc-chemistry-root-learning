@@ -15,10 +15,17 @@
 
 ## 發布方式
 
-原私人專案依本次發布要求設為公開。網站採 `gh-pages` 分支根目錄；來源保存在 `preview/representative-lessons`。建議以這個來源分支繼續更新，不要直接修改發布分支。原 main 舊稿保留。
+原私人專案依本次發布要求設為公開。網站採 `gh-pages` 分支根目錄；來源整合至 `main`，`preview/representative-lessons` 保留本次開發記錄。繼續修改 main 的來源檔，不要直接修改發布分支；舊稿內容與 Git 歷史保留。
 
 1. `node --test tests/*.test.cjs`
 2. `node scripts/package-site.cjs`：輸出專案外的 `../published-site`，只含正式網站需要的 15 個檔案。
 3. 將輸出推送至 `gh-pages`，等待 GitHub Pages 部署成功，再核對公開網址。
 
 學習進度只在目前瀏覽器保存；實體手機／教室設備的發音與投影可讀性仍待教師驗收。原 Excel、Google Drive 圖片與 Google Sites 未改寫。
+
+## 本次驗證
+
+- Node 7 項資料、共用課程、結構圖與講義檢查通過。
+- Edge 實際載入講義四課與學生版溶解課；桌面首頁、講義及窄版學生頁已檢視。
+- 瀏覽器操作檢查：跨頁待加強、答錯清單、答對後更新、541／547 詞範圍均通過。發音音質與實體裝置仍待驗收。
+- GitHub Pages 首次發布版本：`eb15fe2a890b53641b1a23c04f806575e0696b3f`。

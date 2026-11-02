@@ -1,12 +1,12 @@
 # PVQC 化學字根｜圖文學習講義
 
-2026-11-01 教師預覽草稿。新版入口為 `pilot.html`：四個代表課、541 詞共用查詢與6個概念延伸詞。原 `index.html` 的14主題草稿保留；尚未發布學生公開版。
+2026-11-02 已發布雙入口網站：[正式首頁](https://t508-ksvs.github.io/pvqc-chemistry-root-learning/)。`handout.html` 為連續閱讀與列印講義，`student.html` 為互動學習。四個圖文主題、541 詞共用查詢與 6 個概念延伸詞；原 14 主題草稿另存 `draft.html`，不納入正式網站封裝。
 
 代表課與來源比對狀態見 `STAGE2_REVIEW.md`。資料與介面檢查可執行 `node --test tests/shared-words.test.cjs`。
 
-開啟 `index.html` 可檢視；也可使用一般靜態網站伺服器。沒有建置步驟。
+開啟 `index.html` 進入雙入口首頁；兩版共用 `data/courses.js`、`data/words.js`、`visuals.js` 與圖像。發布流程及網址見 `PUBLISHED.md`。
 
-## 功能
+## 原 14 主題草稿功能（draft.html）
 
 - 三組字根總覽、11 個圖文專題。
 - 左右鍵／空白鍵翻頁；O 開啟總覽；F 全螢幕。
@@ -31,7 +31,7 @@
 1. 核准課程組織與學生主圖候選（見 `REVIEW.md`）。
 2. 複核圖片文字及化學內容，特別是 iso、alk、atom 與烴類通式。
 3. 教師在實體手機、教室投影裝置檢查發音與可讀性。
-4. 確認後再公開學生版、設定對外網址；本次建立私人 GitHub 專案保存草稿。
+4. 使用者於 2026-11-02 明確要求公開雙入口網站，已啟用 GitHub Pages；後續擴充仍依修正對照表進行。
 
 ## 詞義複核參考
 
