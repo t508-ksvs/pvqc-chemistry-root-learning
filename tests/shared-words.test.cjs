@@ -29,7 +29,7 @@ test('extension terms remain separate from the V11 inventory',()=>{
  assert.equal(bank.meta.missingFromLegacy.length,0);assert.equal(bank.meta.extraInLegacy.length,0);
 });
 test('every vocabulary reference in all four representative lessons resolves',()=>{
- const source=fs.readFileSync(path.join(root,'pilot.js'),'utf8');
+ const source=fs.readFileSync(path.join(root,'data/courses.js'),'utf8');
  const references=[...source.matchAll(/words:\[([^\]]+)\]/g)];assert.equal(references.length,4);
  const keys=new Set([...bank.words,...bank.extensions].map(w=>w.key));
  for(const m of references){const words=[...m[1].matchAll(/'([^']+)'/g)].map(x=>x[1]);assert.ok(words.length>0);for(const w of words)assert.ok(keys.has(w),'Missing lesson word: '+w);}
